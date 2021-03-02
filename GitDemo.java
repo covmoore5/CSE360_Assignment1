@@ -1,5 +1,5 @@
 /*****
- * Benjamin Moore
+ * Benjamin Moore.
  ******/
 public class GitDemo {
     
